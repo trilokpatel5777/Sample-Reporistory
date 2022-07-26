@@ -1,0 +1,28 @@
+GIT is Version Control System
+Fileyo ka track rakhta hai older to newest
+Easily recovers files
+Kisne change kiya voh pata chal jaayega 
+Roll back kar sakte hai to previous working state
+
+Local VCS-- Data base to keep track of files
+Pros- Can track files and Roll back
+Cons- If you lose your harddisk, everything is lost
+
+Centralized VCS
+You can pull files from server and push again to the server after the work is done
+
+
+Distributed VCS
+sab k pass sab kuch hai
+
+GIT is Distributed VCS
+
+GITHUB is a Website which hosts GIT Repository
+
+
+GIT Features:
+Snapshots ko capture karta hai- matlab har ek changes
+.git banta hai sabse pehle jiske andar pure project ki history hoti hai... sare versions
+Almost every operation is local and kaam hone pe centralised repo pe push kar sakte hai
+GIT has integrity
+GIT generally only adds data
